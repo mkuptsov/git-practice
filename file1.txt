@@ -1,2 +1,3 @@
 This is amaing content
 I'm another person and I added some change to this file
+I'm another person and I deleted what I had added the last time
